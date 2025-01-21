@@ -2,8 +2,8 @@ main:
 
   - title: Impossibility Results for Post-Compromise Security in Real-World Communication Systems
     authors: Cas Cremers, Niklas Medinger, and Aurora Naska
-    conference: Under Submission, 2025.
     conference_short: Under Submission
+    conference: Under Submission, 2025.
     pdf: https://eprint.iacr.org/2024/1886.pdf
     code: https://github.com/pcsanalysiseprint/pcsanalysiseprint
     image: ./assets/img/PCS-img.png
@@ -11,8 +11,8 @@ main:
 
   - title: "Keeping Up with the KEMs: Stronger Security Notions for KEMs and automated analysis of KEM-based protocols"
     authors: Cas Cremers, Alexander Dax, and Niklas Medinger
-    conference_short: ACM CCS, 2024.
-    conference: ACM Conference on Computer and Communications Security 2024
+    conference_short: ACM CCS 2024
+    conference: ACM Conference on Computer and Communications Security, 2024.
     pdf: https://eprint.iacr.org/2023/1933.pdf
     code: https://github.com/FormalKEM/Symbolic_KEM_Models
     image: ./assets/img/KEM-img.png
