@@ -5,7 +5,23 @@ layout: homepage
 ## About Me
 
 I am a Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en),
-supervised by Prof. Dr. Cas Cremers. 
+supervised by [Prof. Dr. Cas Cremers](https://people.cispa.io/cas.cremers/). Before starting my Ph.D., I finished a Bachelor's degree in Cybersecurity at [Saarland University](https://www.uni-saarland.de/en/home.html) under 
+Prof. Dr. Cas Cremers and Dr. Robert Künnemann, and I enrolled
+in the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/).
+
+Together with [Aurora Naska](https://cispa.de/en/people/aurora.naska) and Cas Cremers, I have formally proven
+that modern messaging apps like Signal, iMessage, and WhatsApp cannot achieve
+full post-compromise security for end-users while being resistant against state
+loss that is caused by, for instance, an end-user losing their device.
+
+Together with [Alexander Dax](https://www.alexanderdax.org/) and Cas Cremers, I have proposed
+novel security notions for key encapsulation mechanisms (KEMs)
+in the computational model of cryptography, created new, more realistic models
+for KEMs in the symbolic model of cryptography, and introduced a methodology to
+analyze protocols that use KEMs using the Tamarin Prover.
+
+Together with [Benjamin Kiesl-Reiter](https://benjaminkiesl.github.io/) and Cas Cremers, I have
+created and proven secure an extensive formal model of IEEE's 802.11 WPA2 protocol.
 
 ## Research Interests
 
