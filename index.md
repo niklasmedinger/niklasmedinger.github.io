@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en),
 supervised by [Prof. Dr. Cas Cremers](https://people.cispa.io/cas.cremers/). Before starting my Ph.D., I finished a Bachelor's degree in Cybersecurity at [Saarland University](https://www.uni-saarland.de/en/home.html) under 
-Prof. Dr. Cas Cremers and Dr. Robert Künnemann, and I enrolled
+Prof. Dr. Cas Cremers and [Dr. Robert Künnemann](http://www.kunnemann.de/), and I enrolled
 in the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/).
 
 Together with [Aurora Naska](https://cispa.de/en/people/aurora.naska) and Cas Cremers, I have formally proven
