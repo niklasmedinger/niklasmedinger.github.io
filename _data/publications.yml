@@ -16,7 +16,7 @@ main:
     pdf: https://eprint.iacr.org/2023/1933.pdf
     code: https://github.com/FormalKEM/Symbolic_KEM_Models
     image: ./assets/img/KEM-img.png
-    notes: Distinguished Artifact Award \u{1F3C6}
+    notes: Distinguished Artifact Award
     bibtex: https://dblp.org/rec/journals/iacr/CremersDM23.html?view=bibtex
 
   - title: "A Formal Analysis of IEEE 802.11's WPA2: Countering the Kracks Caused by Cracking the Counters"
