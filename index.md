@@ -27,6 +27,7 @@ supervised by Prof. Dr. Cas Cremers.
 ## Teaching
 - Teaching Assistant, [Formal analysis of real-world protocols](https://cms.cispa.saarland/farwsp24/) at Saarland University, 2024/2025
 - Instructor, [Tamarin Prover Tutorial](https://summerschool-croatia.cs.ru.nl/2024/index.html) at Summer School on real-world crypto and privacy, 2024
+- Teaching Assistant, [Bachelor- and Master Seminar](https://cms.cispa.saarland/bms_ws2324/) at Saarland University, 2022 - 2024
 - Teaching Assistant, [Formal analysis of real-world protocols](https://cms.cispa.saarland/farwsp22/) at Saarland University, 2022/2023
 - Programming Tutor, [Programming Pre-Course](https://cms.sic.saarland/p2vorkurs2020) at Saarland University, 2020
 - Lecturer, [Math Pre-Course](https://vorkurs.cs.uni-saarland.de/cms/ss19/) at Saarland University, 2019
