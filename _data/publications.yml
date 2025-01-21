@@ -2,7 +2,8 @@ main:
 
   - title: Impossibility Results for Post-Compromise Security in Real-World Communication Systems
     authors: Cas Cremers, Niklas Medinger, and Aurora Naska
-    conference: Under Submission
+    conference: Under Submission, 2025.
+    conference_short: Under Submission
     pdf: https://eprint.iacr.org/2024/1886.pdf
     code: https://github.com/pcsanalysiseprint/pcsanalysiseprint
     image: ./assets/img/PCS-img.png
@@ -10,18 +11,18 @@ main:
 
   - title: "Keeping Up with the KEMs: Stronger Security Notions for KEMs and automated analysis of KEM-based protocols"
     authors: Cas Cremers, Alexander Dax, and Niklas Medinger
-    conference_short: ACM CCS 2024
+    conference_short: ACM CCS, 2024.
     conference: ACM Conference on Computer and Communications Security 2024
     pdf: https://eprint.iacr.org/2023/1933.pdf
     code: https://github.com/FormalKEM/Symbolic_KEM_Models
     image: ./assets/img/KEM-img.png
-    notes: Distinguished Artifact Award
+    notes: Distinguished Artifact Award \u{1F3C6}
     bibtex: https://dblp.org/rec/journals/iacr/CremersDM23.html?view=bibtex
 
   - title: "A Formal Analysis of IEEE 802.11's WPA2: Countering the Kracks Caused by Cracking the Counters"
     authors: Cas Cremers, Benjamin Kiesl-Reiter, and Niklas Medinger
-    conference_short: USENIX Security 20
-    conference: 29th USENIX Security Symposium
+    conference_short: USENIX Security 2020
+    conference: 29th USENIX Security Symposium, 2020.
     pdf: https://www.usenix.org/system/files/sec20-cremers.pdf
     code: https://cispa.saarland/group/cremers/tools/tamarin/WPA2/index.html
     image: ./assets/img/WPA-img.png

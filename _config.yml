@@ -2,7 +2,7 @@
 title: Niklas Medinger
 position: Ph.D. Student
 affiliation: CISPA – Helmholtz Center for Information
-email: nik.medinger (at) gmail.com
+email: nik (dot) medinger (at) gmail (dot) com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -26,7 +26,7 @@ avatar: ./assets/img/Niklas.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
