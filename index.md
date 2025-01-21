@@ -4,12 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at at [CISPA Helmholtz Center for Information Security](https://cispa.de/en),
+supervised by Prof. Dr. Cas Cremers. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Formal Analysis of Protocols**
+- **KEMs and Key Exchange**
+- **Improving the Symbolic Model of Cryptography**
 
 ## News
 

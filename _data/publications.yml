@@ -1,22 +1,25 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: Impossibility Results for Post-Compromise Security in Real-World Communication Systems
+    authors: Cas Cremers, Niklas Medinger, Aurora Naska
+    conference: Under Submission
+    pdf: https://eprint.iacr.org/2024/1886.pdf
+    code: https://github.com/pcsanalysiseprint/pcsanalysiseprint
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+  - title: "Keeping Up with the KEMs: Stronger Security Notions for KEMs and automated analysis of KEM-based protocols"
+    authors: Cas Cremers, Alexander Dax, Niklas Medinger
+    conference_short: ACM CCS 2024
+    conference: ACM Conference on Computer and Communications Security 2024
+    pdf: https://eprint.iacr.org/2023/1933.pdf
+    code: https://github.com/FormalKEM/Symbolic_KEM_Models
+    image: ./assets/img/teaser_example.png
+    notes: Distinguished Artifact Award
+
+  - title: "A Formal Analysis of IEEE 802.11's WPA2: Countering the Kracks Caused by Cracking the Counters"
+    authors: Cas Cremers, Benjamin Kiesl-Reiter, Niklas Medinger
+    conference_short: USENIX Security 20
+    conference: 29th USENIX Security Symposium
+    pdf: https://www.usenix.org/system/files/sec20-cremers.pdf
+    code: https://cispa.saarland/group/cremers/tools/tamarin/WPA2/index.html
     image: ./assets/img/teaser_example.png
