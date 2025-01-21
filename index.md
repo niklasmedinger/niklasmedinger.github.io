@@ -18,7 +18,7 @@ Together with [Alexander Dax](https://www.alexanderdax.org/) and Cas Cremers, I 
 novel security notions for key encapsulation mechanisms (KEMs)
 in the computational model of cryptography, created new, more realistic models
 for KEMs in the symbolic model of cryptography, and introduced a methodology to
-analyze protocols that use KEMs using the Tamarin Prover.
+analyze protocols that use KEMs using the [Tamarin Prover](https://tamarin-prover.com/).
 
 Together with [Benjamin Kiesl-Reiter](https://benjaminkiesl.github.io/) and Cas Cremers, I have
 created and proven secure an extensive formal model of IEEE's 802.11 WPA2 protocol.
