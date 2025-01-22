@@ -20,6 +20,12 @@ in the computational model of cryptography, created new, more realistic models
 for KEMs in the symbolic model of cryptography, and introduced a methodology to
 analyze protocols that use KEMs using the [Tamarin Prover](https://tamarin-prover.com/).
 
+From August to November 2023, I have worked as an Applied Science Intern in
+the Automated Reasoning Group at Amazon Web Services, Santa Clara. There,
+I was supervised by [Dimitra Giannakopoulou](https://dblp.org/pid/39/117.html),
+[Zvonimir Rakamaric](https://scholar.google.com/citations?user=Ui1q1jkAAAAJ&hl=en),
+and [Niloofar Razavi](https://www.linkedin.com/in/niloofar-razavi-2a756a41/).
+
 Together with [Benjamin Kiesl-Reiter](https://benjaminkiesl.github.io/) and Cas Cremers, I have
 created and proven secure an extensive formal model of IEEE's 802.11 WPA2 protocol.
 
