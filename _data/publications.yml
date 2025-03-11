@@ -2,7 +2,7 @@ main:
 
   - title: Impossibility Results for Post-Compromise Security in Real-World Communication Systems
     authors: Cas Cremers, Niklas Medinger, and Aurora Naska
-    conference_short: S&P 25
+    conference_short: S&P 2025
     conference: IEEE Symposium on Security and Privacy 2025
     pdf: https://eprint.iacr.org/2024/1886.pdf
     code: https://github.com/pcsanalysiseprint/pcsanalysiseprint
