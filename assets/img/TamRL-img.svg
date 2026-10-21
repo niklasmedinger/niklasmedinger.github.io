@@ -321,6 +321,13 @@
          id="path39-1" />
     </marker>
   </defs>
+  <rect
+     id="background"
+     x="0"
+     y="0"
+     width="653.86982"
+     height="501.24829"
+     fill="#ffffff" />
   <!-- ====== NODES ====== -->
   <!-- s0: Root OR node -->
   <g
