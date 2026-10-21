@@ -6,7 +6,7 @@ main:
     conference: ACM Conference on Computer and Communications Security, 2026 (to appear).
     pdf: https://arxiv.org/pdf/2605.23643
     code: https://github.com/MatCos/TamRL
-    image: ./assets/img/TamRL-img.svg
+    image: ./assets/img/TamRL-img.png
     bibtex: https://arxiv.org/bibtex/2605.23643
 
   - title: Impossibility Results for Post-Compromise Security in Real-World Communication Systems
