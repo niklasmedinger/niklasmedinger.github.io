@@ -1,5 +1,14 @@
 main:
 
+  - title: "Less Effort, Shorter Proofs: Reinforcement Learning for Security Protocol Analysis in Tamarin"
+    authors: Matthias Cosler, Cas Cremers, Bernd Finkbeiner, Mohamed Ghanem, and Niklas Medinger
+    conference_short: ACM CCS 2026
+    conference: ACM Conference on Computer and Communications Security, 2026 (to appear).
+    pdf: https://arxiv.org/pdf/2605.23643
+    code: https://github.com/MatCos/TamRL
+    image: ./assets/img/TamRL-img.svg
+    bibtex: https://arxiv.org/bibtex/2605.23643
+
   - title: Impossibility Results for Post-Compromise Security in Real-World Communication Systems
     authors: Cas Cremers, Niklas Medinger, and Aurora Naska
     conference_short: S&P 2025
@@ -16,7 +25,7 @@ main:
     pdf: https://eprint.iacr.org/2023/1933.pdf
     code: https://github.com/FormalKEM/Symbolic_KEM_Models
     image: ./assets/img/KEM-img.png
-    notes: Distinguished Artifact Award
+    notes: Distinguished Artifact Award, Cybersecurity Award 2025 (Best Theoretical Research Paper)
     bibtex: https://dblp.org/rec/journals/iacr/CremersDM23.html?view=bibtex
 
   - title: "A Formal Analysis of IEEE 802.11's WPA2: Countering the Kracks Caused by Cracking the Counters"

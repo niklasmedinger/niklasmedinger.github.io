@@ -7,6 +7,15 @@ layout: homepage
 I am a Ph.D. student at [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/)
 supervised by [Prof. Dr. Cas Cremers](https://people.cispa.io/cas.cremers/) at [CISPA Helmholtz Center for Information Security](https://cispa.de/en). Before starting my Ph.D., I finished a Bachelor's degree in Cybersecurity at [Saarland University](https://www.uni-saarland.de/en/home.html) under 
 Prof. Dr. Cas Cremers and [Dr. Robert Künnemann](http://www.kunnemann.de/).
+I expect to submit my dissertation in November 2026.
+
+Together with [Matthias Cosler](https://cispa.de/de/people/c01maco), Cas Cremers,
+[Bernd Finkbeiner](https://cispa.de/de/people/finkbeiner), and
+[Mohamed Ghanem](https://oschart.github.io/), I have developed a reinforcement
+learning framework for the [Tamarin Prover](https://tamarin-prover.com/). Inspired by
+AlphaZero and AlphaProof, it guides Tamarin's proof search with a learned neural
+heuristic, solving more lemmas with shorter proofs than Tamarin's built-in heuristics.
+This work will appear at ACM CCS 2026.
 
 Together with [Aurora Naska](https://cispa.de/en/people/aurora.naska) and Cas Cremers, I have formally proven
 that modern messaging apps like Signal, iMessage, and WhatsApp cannot achieve
@@ -17,7 +26,8 @@ Together with [Alexander Dax](https://www.alexanderdax.org/) and Cas Cremers, I 
 novel security notions for key encapsulation mechanisms (KEMs)
 in the computational model of cryptography, created new, more realistic models
 for KEMs in the symbolic model of cryptography, and introduced a methodology to
-analyze protocols that use KEMs using the [Tamarin Prover](https://tamarin-prover.com/).
+analyze protocols that use KEMs using the Tamarin Prover. This work received the
+[2025 Cybersecurity Award for the Best Theoretical Research Paper](https://link.springer.com/journal/42400/updates/27792680).
 
 From August to November 2023, I have worked as an Applied Science Intern in
 the Automated Reasoning Group at Amazon Web Services, Santa Clara. There,
